@@ -42,27 +42,27 @@
         {% endif %}
 
         <h3>Connect with Me</h3>
-        <p class="view">
+        <p class="view social-links">
           {% if site.github_username %}
             <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">
               <i class="fab fa-github"></i> GitHub
-            </a><br>
+            </a>
           {% endif %}
           {% if site.linkedin_username %}
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener noreferrer">
               <i class="fab fa-linkedin"></i> LinkedIn
-            </a><br>
+            </a>
           {% endif %}
           {% if site.email %}
             <a href="mailto:{{ site.email }}">
               <i class="fas fa-envelope"></i> Email
-            </a><br>
+            </a>
           {% endif %}
           {% if site.social_links %}
             {% for link in site.social_links %}
               <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
                 <i class="{{ link.icon }}"></i> {{ link.label }}
-              </a><br>
+              </a>
             {% endfor %}
           {% endif %}
         </p>
