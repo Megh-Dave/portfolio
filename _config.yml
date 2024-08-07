@@ -26,11 +26,11 @@ social_links:
     url: "https://github.com/Megh-Dave"
 
 # You can also add a footer to your page
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/megh-dave"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/your-github-username"
+#footer:
+ # links:
+  #  - label: "LinkedIn"
+   #   icon: "fab fa-linkedin"
+    #  url: "https://www.linkedin.com/in/megh-dave"
+   # - label: "GitHub"
+    #  icon: "fab fa-github"
+     # url: "https://github.com/your-github-username"
