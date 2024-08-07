@@ -39,9 +39,9 @@ I am constantly expanding my skillset and staying updated with the latest advanc
 I am driven by the belief that data, when properly analyzed and interpreted, has the power to drive innovation and inform better decision-making across all sectors of business.
 
 ## Education
-**M.S. in Business Analytics**, California State University East Bay (May 2024)
-**M.B.A. in Technology Management**, NMIMS University (May 2020)
-**B.Tech. in Computer Science**, NMIMS University (May 2020)
+- **M.S. in Business Analytics**, California State University East Bay (May 2024)
+- **M.B.A. in Technology Management**, NMIMS University (May 2020)
+- **B.Tech. in Computer Science**, NMIMS University (May 2020)
 
 I'm passionate about leveraging Big Data, Machine Learning, and AI to solve complex business problems and drive innovation. I'm always eager to take on new challenges and contribute to data-driven decision-making processes.
 
