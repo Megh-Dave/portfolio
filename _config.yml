@@ -14,7 +14,7 @@ github_username: Megh-Dave
 social_links:
   - label: "Resume"
     icon: "fas fa-file-pdf"
-    url: "/assets/Resume_Megh_Dave.pdf"  # Add the path to your resume file
+    url: "/assets/Megh Dave Resume.pdf"  # Add the path to your resume file
 
 # You can also add a footer to your page
 footer:
