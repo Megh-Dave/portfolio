@@ -6,31 +6,22 @@ logo: ./assets/img/IMG_1417_Original.jpeg
 theme: jekyll-theme-minimal
 
 # Add your social links
-github_username: Megh-Dave
-linkedin_username: megh-dave
 email: mdave5@horizon.csueastbay.edu
+linkedin_username: megh-dave
+github_username: Megh-Dave
 
 # Custom links (add as many as you like)
 social_links:
   - label: "Resume"
     icon: "fas fa-file-pdf"
     url: "/assets/Resume_Megh_Dave.pdf"  # Add the path to your resume file
-#  - label: "Email"
- #   icon: "fas fa-envelope"
-  #  url: "mailto:mdave5@horizon.csueastbay.edu"
- # - label: "LinkedIn"
-  #  icon: "fab fa-linkedin"
-   # url: "https://www.linkedin.com/in/megh-dave"
- # - label: "GitHub"
-  #  icon: "fab fa-github"
-   # url: "https://github.com/Megh-Dave"
 
 # You can also add a footer to your page
-#footer:
- # links:
-  #  - label: "LinkedIn"
-   #   icon: "fab fa-linkedin"
-    #  url: "https://www.linkedin.com/in/megh-dave"
-   # - label: "GitHub"
-    #  icon: "fab fa-github"
-     # url: "https://github.com/your-github-username"
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/megh-dave"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/your-github-username"
