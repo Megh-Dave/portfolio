@@ -14,14 +14,4 @@ github_username: Megh-Dave
 social_links:
   - label: "Resume"
     icon: "fas fa-file-pdf"
-    url: "https://megh-dave.github.io/portfolio/assets/Resume_Megh_Dave.pdf"
-    
-# You can also add a footer to your page
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/megh-dave"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/your-github-username"
+    url: "./assets/Megh_Dave_Resume.pdf"
