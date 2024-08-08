@@ -47,3 +47,19 @@ I'm passionate about leveraging Big Data, Machine Learning, and AI to solve comp
 
 I believe in the power of data to transform businesses. My goal is to continue pushing the boundaries of what's possible with data analytics, creating solutions that have a real-world impact.
 
+## Projects
+Here are some of my highlighted projects:
+
+### Personal Nutrition Analyzer
+**Description**:
+The Personal Nutrition Analyzer is a sophisticated web application that leverages artificial intelligence and machine learning to provide users with comprehensive dietary insights. This project was developed as part of the capstone course (BAN 693) and integrates various cutting-edge technologies to offer personalized nutritional analysis.
+
+**Key Features**:
+- Image Recognition: Utilizes TensorFlow and TensorFlow Hub's Food Classifier to accurately identify food items from user-uploaded images.
+- Nutritional Analysis: Integrates with the USDA Food Data Central API to retrieve detailed nutritional information for recognized food items.
+- Personalized Metrics: Calculates user-specific health metrics such as BMI, BMR, and daily caloric needs based on input parameters.
+- Data Visualization: Presents nutritional data in an easy-to-understand format, including interactive charts and tables.
+- Meal Recommendations: Employs linear programming optimization and OpenAI's GPT-3.5 Turbo model to suggest personalized meal plans that meet nutritional goals.
+- Historical Tracking: Maintains a log of user's dietary habits over time, enabling long-term analysis and trend identification.
+
+**Technologies Used**: Python, Flask, TensorFlow, OpenCV, Pandas, NumPy, SciPy (for linear programming), OpenAI API, HTML/CSS, JavaScript
