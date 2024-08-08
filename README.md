@@ -51,6 +51,7 @@ I believe in the power of data to transform businesses. My goal is to continue p
 Here are some of my highlighted projects:
 
 ### Personal Nutrition Analyzer
+[GitHub Repo](https://github.com/Megh-Dave/Personal-Nutritional-Analyzer)
 **Description**:
 The Personal Nutrition Analyzer is a sophisticated web application that leverages artificial intelligence and machine learning to provide users with comprehensive dietary insights. This project was developed as part of the capstone course (BAN 693) and integrates various cutting-edge technologies to offer personalized nutritional analysis.
 
