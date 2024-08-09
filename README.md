@@ -56,14 +56,16 @@ Here are some of my highlighted projects:
 **Description**:
 The Personal Nutrition Analyzer is a sophisticated web application that leverages artificial intelligence and machine learning to provide users with comprehensive dietary insights. This project was developed as part of the capstone course (BAN 693) and integrates various cutting-edge technologies to offer personalized nutritional analysis.
 
-**Key Features**:
-- **Image Recognition**: Utilizes TensorFlow and TensorFlow Hub's Food Classifier to accurately identify food items from user-uploaded images.
-- **Nutritional Analysis**: Integrates with the USDA Food Data Central API to retrieve detailed nutritional information for recognized food items.
-- **Personalized Metrics**: Calculates user-specific health metrics such as BMI, BMR, and daily caloric needs based on input parameters.
-- **Data Visualization**: Presents nutritional data in an easy-to-understand format, including interactive charts and tables.
-- **Meal Recommendations**: Employs linear programming optimization and OpenAI's GPT-3.5 Turbo model to suggest personalized meal plans that meet nutritional goals.
-- **Historical Tracking**: Maintains a log of user's dietary habits over time, enabling long-term analysis and trend identification.
-
 **Technologies Used**: Python, Flask, TensorFlow, OpenCV, Pandas, NumPy, SciPy (for linear programming), OpenAI API, HTML/CSS, JavaScript
 
 ![Smart Diet Tracker](/assets/img/Smart_Diet_Tracker.png)
+
+### Weather Data Analysis with Big Data Technologies
+[GitHub Repo](https://github.com/Megh-Dave/Scalable-Wind-Direction-NCDC-Analysis)
+
+**Description**:
+This project demonstrates proficiency in handling and analyzing large-scale weather data using a variety of big data technologies. The project processes National Climatic Data Center (NCDC) records to extract meaningful insights about wind direction, sky ceiling height, and visibility distance across different weather stations.
+
+**Technologies Used**: Hadoop ecosystem (HDFS, MapReduce), Python, PySpark, MRJob, Apache Pig, Apache Hive, Linux command-line tools
+
+![Scalable_Wind_Direction_NCDC_Analysis](/assets/img/Scalable_Wind_Direction_NCDC_Analysis.png)
