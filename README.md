@@ -69,3 +69,14 @@ This project demonstrates proficiency in handling and analyzing large-scale weat
 **Technologies Used**: Hadoop ecosystem (HDFS, MapReduce), Python, PySpark, MRJob, Apache Pig, Apache Hive, Linux command-line tools
 
 ![Scalable_Wind_Direction_NCDC_Analysis](/assets/img/Scalable_Wind_Direction_NCDC_Analysis.png)
+
+
+### Vintage Intelligence: Assessing the Quality of Red Wine
+[GitHub Repo](https://github.com/Megh-Dave/Vintage-Intelligence-Red-Wine-Quality-Assessment)
+
+**Description**:
+This project aimed to explore the relationship between the physicochemical properties of red wines and their sensory quality ratings. We analyzed various chemical properties to gain insights into the factors that influence wine quality, with practical implications for winemakers, sommeliers, and wine enthusiasts.
+
+**Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib/Seaborn (for data visualization)
+
+![Vintage Intelligence Red Wine Quality Assessment](/assets/img/Vintage_Intelligence_Red_Wine_Quality_Assessment.jpg)
