@@ -70,7 +70,6 @@ This project demonstrates proficiency in handling and analyzing large-scale weat
 
 ![Scalable_Wind_Direction_NCDC_Analysis](/assets/img/Scalable_Wind_Direction_NCDC_Analysis.png)
 
-
 ### Vintage Intelligence: Assessing the Quality of Red Wine
 [GitHub Repo](https://github.com/Megh-Dave/Vintage-Intelligence-Red-Wine-Quality-Assessment)
 
@@ -80,3 +79,13 @@ This project aimed to explore the relationship between the physicochemical prope
 **Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib/Seaborn (for data visualization)
 
 ![Vintage Intelligence Red Wine Quality Assessment](/assets/img/Vintage_Intelligence_Red_Wine_Quality_Assessment.jpg)
+
+### Database Design and Management for an IoT Metering Company
+[GitHub Repo](https://github.com/Megh-Dave/Vintage-Intelligence-Red-Wine-Quality-Assessment)
+
+**Description**:
+This project involved designing and implementing a database system for VJAMS, an IoT metering company providing energy, water, and gas meters to residential communities in California. The system was developed to track utility usage in response to new environmental regulations, allowing communities to monitor and manage their resource consumption effectively.
+
+**Technologies Used** SQL (RDBMS using MySQL), Database design tools (MySQL Workbench), Data modeling software for ERD creation
+
+![Database Design and Management](/assets/img/Database_Design_Management.jpg)
