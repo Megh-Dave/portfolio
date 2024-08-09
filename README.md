@@ -10,7 +10,6 @@ What sets me apart? A unique blend of technical expertise and entrepreneurial sp
 My experience spans across industries, equipping me with a unique perspective on market trends and technological solutions.
 
 ## Key Areas of Expertise:
-My expertise lies in transforming complex data into actionable insights, with a focus on:
 - Data Analytics and Visualization
 - Machine Learning and Predictive Modeling
 - Big Data Processing and Analysis
