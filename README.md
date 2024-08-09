@@ -86,6 +86,16 @@ This project aimed to explore the relationship between the physicochemical prope
 **Description**:
 This project involved designing and implementing a database system for VJAMS, an IoT metering company providing energy, water, and gas meters to residential communities in California. The system was developed to track utility usage in response to new environmental regulations, allowing communities to monitor and manage their resource consumption effectively.
 
-**Technologies Used** SQL (RDBMS using MySQL), Database design tools (MySQL Workbench), Data modeling software for ERD creation
+**Technologies Used**: SQL (RDBMS using MySQL), Database design tools (MySQL Workbench), Data modeling software for ERD creation (Lucidchart)
 
 ![Database Design and Management](/assets/img/Database_Design_Management.jpg)
+
+### San Francisco Bay Area Real Estate Analysis
+[GitHub Repo](https://github.com/Megh-Dave/Real-Estate-Market-Analysis-in-San-Francisco-Bay-Area)
+
+**Description**:
+This project involved a comprehensive analysis of the real estate market in the San Francisco Bay Area. We collected data on over 1200 distinct properties, performed extensive data cleaning and preparation, and conducted both exploratory and predictive analyses to understand market trends and factors influencing property prices.
+
+**Technologies Used**: Python, Selenium (for web scraping), Pandas (for data manipulation), Matplotlib/Seaborn (for data visualization), Scikit-learn (for machine learning models)
+
+![San Francisco Bay Area Real Estate Analysis](/assets/img/Real_Estate_Market_Analysis_San-Francisco_Bay_Area.jpeg)
