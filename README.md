@@ -80,3 +80,13 @@ This project involved a comprehensive analysis of the real estate market in the 
 
 **Technologies Used**: Python, Selenium (for web scraping), Pandas (for data manipulation), Matplotlib/Seaborn (for data visualization), Scikit-learn (for machine learning models)
 ![San Francisco Bay Area Real Estate Analysis](/assets/img/Real_Estate_Market_Analysis_San-Francisco_Bay_Area.jpeg)
+
+### US GDP Forecasting Analysis
+[GitHub Repo](https://github.com/Megh-Dave/US-GDP-Forecasting)
+
+**Description**:
+Developed and compared multiple time series forecasting models to predict future US GDP values, analyzing 20 years of quarterly data from 2003-2022. Implemented ARIMA, Holt-Winters, regression, and other models to identify the most accurate forecasting approach.
+
+**Technologies Used**: R programming language, Time series analysis techniques, Statistical modeling (ARIMA, Holt-Winters, regression), Data visualization
+![US GDP Forecasting](/assets/img/US_GDP_Forecasting.jpg)
+
