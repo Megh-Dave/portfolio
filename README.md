@@ -44,7 +44,8 @@ The Personal Nutrition Analyzer is a sophisticated web application that leverage
 
 **Technologies Used**: Python, Flask, TensorFlow, OpenCV, Pandas, NumPy, SciPy (for linear programming), OpenAI API, HTML/CSS, JavaScript
 
-<img src="/assets/img/Smart_Diet_Tracker.png" alt="Smart Diet Tracker" style="width: 60%;"/>
+<img src="/assets/img/Smart_Diet_Tracker.png" alt="Smart Diet Tracker" class="project-image" />
+
 
 ### Weather Data Analysis with Big Data Technologies
 [GitHub Repo](https://github.com/Megh-Dave/Scalable-Wind-Direction-NCDC-Analysis)
