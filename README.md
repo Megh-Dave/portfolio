@@ -43,8 +43,7 @@ With 4 years of experience in the field, I have worked on diverse projects acros
 The Personal Nutrition Analyzer is a sophisticated web application that leverages artificial intelligence and machine learning to provide users with comprehensive dietary insights. This project was developed as part of the capstone course (BAN 693) and integrates various cutting-edge technologies to offer personalized nutritional analysis.
 
 **Technologies Used**: Python, Flask, TensorFlow, OpenCV, Pandas, NumPy, SciPy (for linear programming), OpenAI API, HTML/CSS, JavaScript
-
-<img src="/assets/img/Smart_Diet_Tracker.png" alt="Smart Diet Tracker" class="project-image" />
+![Smart Diet Tracker](/assets/img/Smart_Diet_Tracker.png)
 
 
 ### Weather Data Analysis with Big Data Technologies
@@ -56,6 +55,7 @@ This project demonstrates proficiency in handling and analyzing large-scale weat
 **Technologies Used**: Hadoop ecosystem (HDFS, MapReduce), Python, PySpark, MRJob, Apache Pig, Apache Hive, Linux command-line tools
 ![Scalable_Wind_Direction_NCDC_Analysis](/assets/img/Scalable_Wind_Direction_NCDC_Analysis.png)
 
+
 ### Vintage Intelligence: Assessing the Quality of Red Wine
 [GitHub Repo](https://github.com/Megh-Dave/Vintage-Intelligence-Red-Wine-Quality-Assessment)
 
@@ -64,6 +64,7 @@ This project aimed to explore the relationship between the physicochemical prope
 
 **Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib/Seaborn (for data visualization)
 ![Vintage Intelligence Red Wine Quality Assessment](/assets/img/Vintage_Intelligence_Red_Wine_Quality_Assessment.jpg)
+
 
 ### Database Design and Management for an IoT Metering Company
 [GitHub Repo](https://github.com/Megh-Dave/Vintage-Intelligence-Red-Wine-Quality-Assessment)
@@ -74,6 +75,7 @@ This project involved designing and implementing a database system for VJAMS, an
 **Technologies Used**: SQL (RDBMS using MySQL), Database design tools (MySQL Workbench), Data modeling software for ERD creation (Lucidchart)
 ![Database Design and Management](/assets/img/Database_Design_Management.jpg)
 
+
 ### San Francisco Bay Area Real Estate Analysis
 [GitHub Repo](https://github.com/Megh-Dave/Real-Estate-Market-Analysis-in-San-Francisco-Bay-Area)
 
@@ -83,6 +85,7 @@ This project involved a comprehensive analysis of the real estate market in the 
 **Technologies Used**: Python, Selenium (for web scraping), Pandas (for data manipulation), Matplotlib/Seaborn (for data visualization), Scikit-learn (for machine learning models)
 ![San Francisco Bay Area Real Estate Analysis](/assets/img/Real_Estate_Market_Analysis_San-Francisco_Bay_Area.jpeg)
 
+
 ### US GDP Forecasting Analysis
 [GitHub Repo](https://github.com/Megh-Dave/US-GDP-Forecasting)
 
@@ -91,4 +94,3 @@ Developed and compared multiple time series forecasting models to predict future
 
 **Technologies Used**: R programming language, Time series analysis techniques, Statistical modeling (ARIMA, Holt-Winters, regression), Data visualization
 ![US GDP Forecasting](/assets/img/US_GDP_Forecasting.jpg)
-
