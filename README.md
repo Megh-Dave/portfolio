@@ -43,7 +43,8 @@ With 4 years of experience in the field, I have worked on diverse projects acros
 The Personal Nutrition Analyzer is a sophisticated web application that leverages artificial intelligence and machine learning to provide users with comprehensive dietary insights. This project was developed as part of the capstone course (BAN 693) and integrates various cutting-edge technologies to offer personalized nutritional analysis.
 
 **Technologies Used**: Python, Flask, TensorFlow, OpenCV, Pandas, NumPy, SciPy (for linear programming), OpenAI API, HTML/CSS, JavaScript
-![Smart Diet Tracker](/assets/img/Smart_Diet_Tracker.png)
+
+<img src="/assets/img/Smart_Diet_Tracker.png" alt="Smart Diet Tracker" style="width: 60%;"/>
 
 ### Weather Data Analysis with Big Data Technologies
 [GitHub Repo](https://github.com/Megh-Dave/Scalable-Wind-Direction-NCDC-Analysis)
