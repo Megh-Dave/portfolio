@@ -53,6 +53,7 @@ The Personal Nutrition Analyzer is a sophisticated web application that leverage
 This project demonstrates proficiency in handling and analyzing large-scale weather data using a variety of big data technologies. The project processes National Climatic Data Center (NCDC) records to extract meaningful insights about wind direction, sky ceiling height, and visibility distance across different weather stations.
 
 **Technologies Used**: Hadoop ecosystem (HDFS, MapReduce), Python, PySpark, MRJob, Apache Pig, Apache Hive, Linux command-line tools
+
 ![Scalable_Wind_Direction_NCDC_Analysis](/assets/img/Scalable_Wind_Direction_NCDC_Analysis.png)
 
 
@@ -63,6 +64,7 @@ This project demonstrates proficiency in handling and analyzing large-scale weat
 This project aimed to explore the relationship between the physicochemical properties of red wines and their sensory quality ratings. We analyzed various chemical properties to gain insights into the factors that influence wine quality, with practical implications for winemakers, sommeliers, and wine enthusiasts.
 
 **Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib/Seaborn (for data visualization)
+
 ![Vintage Intelligence Red Wine Quality Assessment](/assets/img/Vintage_Intelligence_Red_Wine_Quality_Assessment.jpg)
 
 
@@ -73,6 +75,7 @@ This project aimed to explore the relationship between the physicochemical prope
 This project involved designing and implementing a database system for VJAMS, an IoT metering company providing energy, water, and gas meters to residential communities in California. The system was developed to track utility usage in response to new environmental regulations, allowing communities to monitor and manage their resource consumption effectively.
 
 **Technologies Used**: SQL (RDBMS using MySQL), Database design tools (MySQL Workbench), Data modeling software for ERD creation (Lucidchart)
+
 ![Database Design and Management](/assets/img/Database_Design_Management.jpg)
 
 
@@ -83,6 +86,7 @@ This project involved designing and implementing a database system for VJAMS, an
 This project involved a comprehensive analysis of the real estate market in the San Francisco Bay Area. We collected data on over 1200 distinct properties, performed extensive data cleaning and preparation, and conducted both exploratory and predictive analyses to understand market trends and factors influencing property prices.
 
 **Technologies Used**: Python, Selenium (for web scraping), Pandas (for data manipulation), Matplotlib/Seaborn (for data visualization), Scikit-learn (for machine learning models)
+
 ![San Francisco Bay Area Real Estate Analysis](/assets/img/Real_Estate_Market_Analysis_San-Francisco_Bay_Area.jpeg)
 
 
@@ -93,4 +97,5 @@ This project involved a comprehensive analysis of the real estate market in the 
 Developed and compared multiple time series forecasting models to predict future US GDP values, analyzing 20 years of quarterly data from 2003-2022. Implemented ARIMA, Holt-Winters, regression, and other models to identify the most accurate forecasting approach.
 
 **Technologies Used**: R programming language, Time series analysis techniques, Statistical modeling (ARIMA, Holt-Winters, regression), Data visualization
+
 ![US GDP Forecasting](/assets/img/US_GDP_Forecasting.jpg)
