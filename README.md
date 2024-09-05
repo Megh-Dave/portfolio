@@ -70,7 +70,7 @@ This project aimed to explore the relationship between the physicochemical prope
 
 
 ### Database Design and Management for an IoT Metering Company
-[GitHub Repo](https://github.com/Megh-Dave/Vintage-Intelligence-Red-Wine-Quality-Assessment)
+[GitHub Repo](https://github.com/Megh-Dave/Database-Creation-Implementation-With-SQL-for-VJAMS)
 
 **Description**:
 This project involved designing and implementing a database system for VJAMS, an IoT metering company providing energy, water, and gas meters to residential communities in California. The system was developed to track utility usage in response to new environmental regulations, allowing communities to monitor and manage their resource consumption effectively.
